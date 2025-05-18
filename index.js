@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-class VibeSync {
+class AyamiSync {
     /**
      * @param {Client} BotDevu 
      */
@@ -13,7 +13,7 @@ class VibeSync {
      * @param {String} status 
      * @returns {Promise<void>} 
      */
-    async setVoiceStatus(ChannelId, status) {
+    async setLund(ChannelId, status) {
         try {
             const response = await axios.put(
                 `https://discord.com/api/v10/channels/${ChannelId}/voice-status`,
@@ -35,4 +35,4 @@ class VibeSync {
     }
 }
 
-module.exports = { VibeSync };
+module.exports = { AyamiSync };
