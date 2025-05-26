@@ -1,21 +1,21 @@
 {
-  "name": "@devuuuxd/vibesync",
+  "name": "Ayamisync",
   "version": "1.0.6",
-  "description": "VibeSync is a simple library for managing custom statuses in Discord Voice Channels. Easily set and update your channel statuses to keep your server engaging and organized.",
+  "description": "Ayamisync is a simple library for managing custom statuses in Discord Voice Channels. Easily set and update your channel statuses to keep your server engaging and organized.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devuuuxd/VibeSync.git"
+    "url": "https://github.com/jimmyontop15/AyamiSync.git"
   },
-  "author": "devuuu_died",
+  "author": "Fxwfz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devuuuxd/VibeSync/issues"
+    "url": "https://github.com/jimmyontop15/AyamiSync/issues"
   },
-  "homepage": "https://github.com/devuuuxd/VibeSync/blob/main/readme.md",
+  "homepage": "https://github.com/jimmyontop15/AyamiSync/blob/main/readme.md",
   "dependencies": {
     "axios": "^1.7.5",
     "discord.js": "^14.15.3",
